@@ -58,7 +58,7 @@ The Doom 3 GPL source code release **did** not include functionality enabling re
 of stencil shadows via the “depth fail” method, a functionality commonly known as 
 "Carmack's Reverse".
 
-It has been restored here in this fork after the [patent](https://patents.google.com/patent/US6384822B1/en) by Creative Labs finally expired.
+It has been restored here in this fork after the patent(https://patents.google.com/patent/US6384822B1/en) by Creative Labs finally expired.
 
 MayaImport:
 ---------------------------
