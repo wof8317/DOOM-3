@@ -54,9 +54,11 @@ XCode 3.2 project is under neo/sys/osx/
 Back End Rendering of Stencil Shadows:
 --------------------------------------
 
-The Doom 3 GPL source code release does not include functionality enabling rendering
-of stencil shadows via the ìdepth failî method, a functionality commonly known as 
+The Doom 3 GPL source code release **did** not include functionality enabling rendering
+of stencil shadows via the ‚Äúdepth fail‚Äù method, a functionality commonly known as 
 "Carmack's Reverse".
+
+It has been restored here in this fork after the [patent](https://patents.google.com/patent/US6384822B1/en) by Creative Labs finally expired.
 
 MayaImport:
 ---------------------------
@@ -399,7 +401,7 @@ lines	file(s)
 225		neo/sys/linux/setup/brandelf.c
 
 /*-
- * Copyright (c) 1996 S¯ren Schmidt
+ * Copyright (c) 1996 S√∏ren Schmidt
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -431,5 +433,5 @@ lines	file(s)
 makeself - Make self-extractable archives on Unix
 --------------------------------------------------------------------------- 
 neo/sys/linux/setup/makeself/*, neo/sys/linux/setup/makeself/README
-Copyright (c) StÈphane Peter
+Copyright (c) St√©phane Peter
 Licensing: GPL v2
